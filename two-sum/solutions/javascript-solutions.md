@@ -1,6 +1,6 @@
 # Javascript Solutions 
 
-### Brute Force
+### :fist:Brute Force
 
 ```javascript
 /**
@@ -26,7 +26,7 @@ Space Complexity: O(1)
 
 ***
 
-### Optimization
+### :stopwatch:Optimization
 
 ```javascript
 /**
