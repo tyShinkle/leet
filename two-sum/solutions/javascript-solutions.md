@@ -24,6 +24,8 @@ In this solution we iterate through  and compare every element of our array with
 Time Complexity: O(n<sup>2</sup>)  
 Space Complexity: O(1)
 
+***
+
 ### Optimization
 
 ```javascript
