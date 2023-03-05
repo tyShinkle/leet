@@ -21,7 +21,7 @@ var twoSum = function(nums, target) {
 In this solution we iterate through every element of the array for every element of the array. If the indices do not match and the two values add up to our target we return the two indices.
 
 #### Complexities
-Time Complexity: O(n<sup>2</sup>)
+Time Complexity: O(n<sup>2</sup>)  
 Space Complexity: 
 
 ### Optimization
