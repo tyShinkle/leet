@@ -22,7 +22,7 @@ In this solution we iterate through  and compare every element of our array with
 
 #### Complexities
 Time Complexity: O(n<sup>2</sup>)  
-Space Complexity: 
+Space Complexity: O(n)
 
 ### Optimization
 
