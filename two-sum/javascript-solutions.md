@@ -1,3 +1,18 @@
 # Javascript Solutions 
 
-## The O(n<sup>2</sup>) Solution
+### The O(n<sup>2</sup>) Solution
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    for(let i = 0; i < nums.length; i++){
+        for(let j=1; j < nums.length; j++){
+            if(nums[i]+nums[j]==target && i!=j) return [i,j];
+        }
+    }
+};
+```
