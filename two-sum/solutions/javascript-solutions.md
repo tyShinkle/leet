@@ -27,7 +27,7 @@ We arrive at a time complexity of O(n<sup>2</sup>) because the number of compari
 
 #### Space Complexity: O(1)
 
-The only data structures our algorithm requires is an array of length 2. Therefore the space complexity is constant or O(1).
+The only data structures our algorithm requires is an array of length 2 and two iterators (*i*, *j*). Therefore the space complexity is constant or O(1).
 
 ***
 
