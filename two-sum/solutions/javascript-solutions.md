@@ -23,9 +23,11 @@ In this solution we iterate through  and compare every element of our array with
 ### Complexity Analysis
 #### Time Complexity: O(n<sup>2</sup>) 
 
-We arrive at a time complexity of O(n<sup>2</sup>) because the number of comparisons scales according to the input *n* by a factor of *n*<sup>2</sup>.  
+We arrive at a time complexity of O(n<sup>2</sup>) because the number of comparisons our algorithm requires scales according to the input *n*, by a factor of *n*<sup>2</sup>.  
 
 #### Space Complexity: O(1)
+
+The only data structures our algorithm requires is an array of length 2. Therefore the space complexity is constant or O(1).
 
 ***
 
