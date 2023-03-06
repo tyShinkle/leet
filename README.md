@@ -1,9 +1,10 @@
 # Leetcode Solutions
 
 This is a collection of leetcode problems and solutions. For each problem there will be...  
-- a general explanation and complexity analysis of the alorithm(s) in pseudocode. (analysis.md)
-- a javascript solution (javascript-solution.md)
-- a java solution (java-solution.md)
-- a python solution (python-solution.md)
-- a c# solution (c-sharp-solution.md)
-- a c++ solution (cpp-solution.md)
+- A general explanation and complexity analysis of the alorithm(s) in pseudocode. (analysis.md)
+- A solution coded in the following 5 languages...
+  - Javascript (javascript-solution.md)
+  - Java (java-solution.md)
+  - Python (python-solution.md)
+  - C++ (cpp-solution.md)
+  - C# (c-sharp-solution.md)
