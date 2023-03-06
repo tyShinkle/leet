@@ -56,7 +56,7 @@ var twoSum = function(nums, target) {
 ```
 
 #### Explanation  
-This algorithm creates a hash map where each element of our array is the key and the index of said element is the value for said key. We then iterate over our array and obtain the necessary integer which will sum to our target with the integer currently being iterated upon. If the integer obtained is a key in our hash map we will then return the current index for our array and the index of the key which will sum to our target. 
+This algorithm creates a hash map where each element of our array is the key and the index of said element is the value for said key. We then iterate over our array and obtain the necessary integer which will sum to our target with the integer currently being iterated upon. If the integer obtained is a key in our hash map we will then return the current index for our array and the index (or value) of the key which will sum to our target. 
 #### Complexity Analysis
 Time Complexity: O(n)  
 Space Complexity: O(n)
