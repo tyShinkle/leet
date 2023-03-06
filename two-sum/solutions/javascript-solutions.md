@@ -22,6 +22,7 @@ In this solution we iterate through  and compare every element of our array with
 
 #### Complexity Analysis
 Time Complexity: O(n<sup>2</sup>)  
+Since the number of comparisons *n* scales relative to the input by a factor of *n*<sup>2</sup>  
 Space Complexity: O(1)
 
 ***
