@@ -47,6 +47,6 @@ This algorithm creates a hash map where each element of our array is the key and
 
 #### Complexity Analysis
 #### Time Complexity: O(n)  
-For this algorithm our operations scale relative to the growth of our input by a factor of O(n). If there are 5 elements of the array the map comparisons and insertions will be perfomed 5 times, once for each element.
+For this algorithm our operations scale linearly to the growth of our input *n*. If there are 5 elements of the array the map comparisons and insertions will be perfomed 5 times, once for each element.
 #### Space Complexity: O(n)
-This algorithm requires a map to be stored in memory which will grow in accordance to the input *n* by a factor of O(n).
+This algorithm requires a map to be stored in memory which will grow linearly in accordance to the input *n*.
