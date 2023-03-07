@@ -2,7 +2,7 @@
 
 ## :fist:Brute Force
 
-```
+```javascript
 function(nums, target){
   for(i=0; i<nums.length; i++){
     for(j=0; j<nums.length; j++){
