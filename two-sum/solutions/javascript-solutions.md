@@ -18,7 +18,7 @@ var twoSum = function(nums, target) {
 };
 ```
 
-### :stopwatch:Optimization
+## :stopwatch:Optimization
 
 ```javascript
 /**
