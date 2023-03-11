@@ -34,6 +34,7 @@ public:
         unordered_map<int,int> map;
 
         for(int i=0; i<nums.size(); i++){
+            // note: map.find() defaults to returning map.end if the argument is not found.
             if(map.find(target-nums[i]) != map.end()){
                 return {i, map[target-nums[i]]};
             }
