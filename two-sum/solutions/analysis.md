@@ -1,4 +1,4 @@
-# Explanation and Analysis of Two-Sum Algorithms
+# Explanation and Analysis of Two Sum Algorithms
 
 ## :fist:Brute Force
 
