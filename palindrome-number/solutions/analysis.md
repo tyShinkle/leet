@@ -1,1 +1,1 @@
-# Explanation and Analysis od Palindrome Number Algorithms 
+# Explanation and Analysis of Palindrome Number Algorithms 
