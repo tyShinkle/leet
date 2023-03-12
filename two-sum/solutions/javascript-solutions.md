@@ -28,13 +28,13 @@ var twoSum = function(nums, target) {
  */
  
 var twoSum = function(nums, target) {
-    let mp = new Map()
+    let map = new Map()
     for (let i = 0; i < nums.length; i++) {
-        let diff = target - nums[i]
-        if (mp.has(diff)) {
-            return [i, mp.get(diff)];
+        let complement = target - nums[i]
+        if (map.has(complement)) {
+            return [i, map.get(complement)];
         }
-        mp.set(nums[i], i);
+        map.set(nums[i], i);
     }
 };
     
