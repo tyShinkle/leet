@@ -1,6 +1,6 @@
 # Python Solutions
 
-## Reverse String Comparison
+## Solution One: Reverse String Comparison
 
 ### Code
 ```python3
