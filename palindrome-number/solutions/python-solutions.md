@@ -28,3 +28,6 @@ print(::-1)     #=> !tesT (negative stride starts at the end and no slicing mean
 
 ```
 ## Solution Two: Reverse Integer Comparison
+### Code
+### Explanation
+This algorithm reverses the input differently than in our first solution. When considering positive integers the most significant digit should be reverted to the ones place and the least significant digit should be amplified to the same order as the initial most significant digit.
