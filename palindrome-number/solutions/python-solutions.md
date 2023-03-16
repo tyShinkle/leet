@@ -27,3 +27,4 @@ print(0::2)     #=> Ts! (stride by two skips every other character)
 print(::-1)     #=> !tesT (negative stride starts at the end and no slicing means we'll print the whole string)
 
 ```
+## Solution Two: Reverse Integer Comparison
