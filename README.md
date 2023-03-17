@@ -1,1 +1,1 @@
-# Collection of Leet Code Solutions and Explanations
+# Leet Code Collection
