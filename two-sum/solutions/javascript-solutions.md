@@ -16,6 +16,7 @@ var twoSum = function(nums, target) {
             if (nums[i] + nums[j] == target && i != j) return [i,j];
         }
     }
+    
 };
 ```
 
@@ -39,6 +40,7 @@ var twoSum = function(nums, target) {
         }
         map.set(nums[i], i);
     }
+    
 };
     
 ```
