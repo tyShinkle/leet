@@ -10,7 +10,7 @@ You may assume that each input array will have exactly one solution. You may not
 
 You can return your answer as two indices in any order.
 
-## Algorithm Walkthroughs
+## Algorithms
 
 ### :fist:Brute Force
 
@@ -58,7 +58,7 @@ function(nums, target){
 This algorithm creates a hash map where each element of our array is the key and the index of said element is the value for said key. We then iterate over our array and obtain the necessary integer which will sum to our target with the integer currently being iterated upon. If the integer obtained is a key in our hash map we will then return the current index for our array and the index (or value) of the key which will sum to our target. 
 
 #### Complexity Analysis
-#### Time Complexity: O(n)  
+##### Time Complexity: O(n)  
 For this algorithm our operations scale linearly to the growth of our input *n*. If there are 5 elements of the array the map comparisons and insertions will be perfomed 5 times, once for each element.
-#### Space Complexity: O(n)
+##### Space Complexity: O(n)
 This algorithm requires a map to be stored in memory which will grow linearly in accordance to the input *n*.
