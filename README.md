@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 This is a collection of leetcode problems and solutions. For each problem there will be...  
-- A general explanation and complexity analysis of the alorithm(s) in pseudocode. (analysis.md)
+- A general explanation and complexity analysis of the alorithm(s) in pseudocode. (README.md)
 - A solution coded in the following 5 languages...
   - Javascript (javascript-solutions.md)
   - Java (java-solutions.md)
